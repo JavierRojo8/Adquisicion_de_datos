@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Agenda de actividades deportivas</nombre>
+        <id>212504-0</id>
+        <uri>https://datos.madrid.es/egob/catalogo/212504-0-agenda-actividades-deportes</uri>
+        <descripcion> A continuación se refleja las actividades deportivas que se celebran en la ciudad de Madrid. 
+ Es importante destacar que no se trata de una relación exhaustiva de las actividades que se celebran en la vía publica o en recintos deportivos, sino solamente aquellas actividades que el Ayuntamiento de Madrid conoce y ha incluido en su web municipal:  www.madrid.es  </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11234187</atributo>
+            <atributo nombre="TITULO">Correr por Madrid</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L,M,X,J</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-09-01 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2023-06-30 23:59:00.0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=712a8daaa32d4710VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Correr por Madrid</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9def21a074077510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10137324</atributo>
+            <atributo nombre="TITULO">Fit boxing</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">M</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-01 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-29 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">18:30</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Ven a desestresarte en nuestras clases de fit boxing y disfruta con esta actividad tan estimulante.   Celebración: Todos los martes de noviembre de 2022 de 19h a 20h  Inscripción: hasta completar plazas en www.bit.ly/inscripcioncj   Plazas:10.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ae5298c7d5237510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Septiembre 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=06d8fdbf23fd1410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11831856</atributo>
+            <atributo nombre="TITULO">Fútbol 7</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-26 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-26 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">21:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En Pradillo, calle Pradillo, 33.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=5153ceed51414810VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/Exposiciones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11831850</atributo>
+            <atributo nombre="TITULO">Fútbol sala</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-05 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-05 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">21:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En la pista de Marcenado, calle Pradillo, 23.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c753ceed51414810VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/Exposiciones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11831853</atributo>
+            <atributo nombre="TITULO">Fútbol sala</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-12 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-12 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">21:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En la pista de Marcenado, calle Pradillo, 23.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2553ceed51414810VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/Exposiciones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10622125</atributo>
+            <atributo nombre="TITULO">Fútbol</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">X</atributo>
+            <atributo nombre="DIAS-EXCLUIDOS-TEXT">9/11/2022;</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-02 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-30 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">18:30</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Apúntate a nuestro equipo de fútbol y entrena cada miércoles en la mejor compañía.    Fecha y hora de celebración: Los miércoles 2, 16, 23 y 30 de noviembre de 2022 de 18:30h a 20:00h  Periodo de inscripción: ﻿hasta completar plazas. Inscripciones en www.bit.ly/inscripcioncj    Plazas: 15.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=582c7a3074991610VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Septiembre 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=06d8fdbf23fd1410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas/Futbol</atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11700821</atributo>
+            <atributo nombre="TITULO">Fútbol sala</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-29 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-10-29 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">21:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En la Pista de Marcenado (calle Pradillo, 23). Más información e inscripciones por Whatsapp o teléfono al 611064536.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=3affe60c2f911810VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">La noche que más renta. Fútbol sala</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=a22f2522f8b8e710VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/Exposiciones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10656625</atributo>
+            <atributo nombre="TITULO">Generación T</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">M,X,J,V</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-07 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-10-28 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">16:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En el Centro juvenil de Carabanchel, nace una nueva generación, la generación T. En este grupo, queremos crear un espacio de creación y promoción para el centro, encárgate de crear tus propios eventos y actividades siendo partícipe con nosotros.   Fecha y hora de celebración: Todos los viernes de octubre de 2022 de 16:00h a 18h  Periodo de inscripción: Inscripciones en www.bit.ly/inscripcioncj   Plazas:30]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=64c79723d3322610VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Julio 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ecfc541470edc310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10755943</atributo>
+            <atributo nombre="TITULO">Halloween: Pasaje del terror</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-29 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-10-29 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">16:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Ven con tus amigos o familiares al pasaje del terror que hemos preparado para vosotros y pasa una tarde terroríficamente divertida.¡No te lo puedes perder!   Fecha y hora de celebración: sábado 29 de octubre de 16h a 20:30h  Período de Inscripción: Hasta completar plazas. Inscripciones en www.bit.ly/inscripcioncj    Plazas: Aforo]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=a4e90e8465ae4610VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Julio 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ecfc541470edc310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10487925</atributo>
+            <atributo nombre="TITULO">Libros 'Liberados'</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L,M,X,J,V,S,D</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-01 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-10-31 23:59:00.0</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Echa un vistazo a nuestro listado en  bit.ly/librosliberados y llévatelo. También puedes colaborar con el centro dejando todos los libros que ya no quieras, siempre que tengan una temática juvenil, ¡contamos con ellos! En horario de atención del centro. Más Información en actividadescarabanchel@gmail.com o por whatsapp en el 636045586.Consulta toda la programación en http://www.bit.ly/cjcarabanchel]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=81cf5237f158e510VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Julio 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ecfc541470edc310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10656844</atributo>
+            <atributo nombre="TITULO">Los lunes de Play</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-03 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-10-31 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">18:30</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Ven a jugar todos los lunes a la play a los torneos que vamos a organizar y se el más hábil para ganar.   Fecha y hora de celebración: Todos los lunes de octubre de 2022 18:30 a 19:30 h.   Periodo de inscripción: ﻿Hasta completar plazas. Inscripciones en www.bit.ly/inscripcioncj   Plazas: 12]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=060d5ab1ef322610VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Julio 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ecfc541470edc310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11831855</atributo>
+            <atributo nombre="TITULO">Pádel</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">0</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-19 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-19 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">21:00</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[En la instalación deportiva Padre Damián, calle Padre Damián, 26.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=e253ceed51414810VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/Exposiciones</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11748362</atributo>
+            <atributo nombre="TITULO">Piragüismo por Madrid</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L,M,X,J,V,S,D</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-09-01 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2023-07-31 23:59:00.0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=6a73b16daa0b2810VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Piragüismo por Madrid</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=265829cc0b9f8410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8d9a78a0dea9e210VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Parque Juan Carlos I</atributo>
+                <atributo nombre="ID-INSTALACION">5987836</atributo>
+                <atributo nombre="CLASE-VIAL">GLORIETA</atributo>
+                <atributo nombre="NOMBRE-VIA">S.A.R. DON JUAN DE BORBON Y BATTEMBERG, 5</atributo>
+                <atributo nombre="NUM">5</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">GLORIETA S.A.R. DON JUAN DE BORBON Y BATTEMBERG, 5 5</atributo>
+                <atributo nombre="LATITUD">40.45999848510341</atributo>
+                <atributo nombre="LONGITUD">-3.6148888706303586</atributo>
+                <atributo nombre="COORDENADA-X">447867</atributo>
+                <atributo nombre="COORDENADA-Y">4478996</atributo>
+                <atributo nombre="LOCALIDAD">MADRID 28042</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+                <atributo nombre="CODIGO-POSTAL">28042</atributo>
+                <atributo nombre="ACCESIBILIDAD">2</atributo>
+                <atributo nombre="BARRIO">CORRALEJOS</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">11614256</atributo>
+            <atributo nombre="TITULO">Seminarios, cursos y jornadas autoprotección para mujeres</atributo>
+            <atributo nombre="GRATUITO">0</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">L,M,X,J,V,S,D</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-10-15 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-12-17 23:59:00.0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=3e40d70ba204f710VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Seminarios, cursos y jornadas autoprotección para mujeres</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=429ad70ba204f710VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION"/>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes,/usuario/Mujeres</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>Evento</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-EVENTO">10622085</atributo>
+            <atributo nombre="TITULO">Voley / Tardes deportivas</atributo>
+            <atributo nombre="GRATUITO">1</atributo>
+            <atributo nombre="EVENTO-LARGA-DURACION">1</atributo>
+            <atributo nombre="DIAS-SEMANA">J</atributo>
+            <atributo nombre="FECHA-EVENTO">2022-11-03 00:00:00.0</atributo>
+            <atributo nombre="FECHA-FIN-EVENTO">2022-11-24 23:59:00.0</atributo>
+            <atributo nombre="HORA-EVENTO">17:30</atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[El Centro Juvenil de Carabanchel te ofrece varios juegos y deportes de exterior, para disfrutar, aprender y ponerte en forma.   Fecha y hora de celebración: Todos los jueves de noviembre de 2022 de 17:30 a 19h  Periodo de inscripción: abierto hasta completar plazas. Inscripciones en www.bit.ly/inscripcioncj   Plazas: 15.]]></atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8714afe611991610VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="TITULO-ACTIVIDAD">Actividades en el centro juvenil 'Carabanchel Alto'. Septiembre 2022</atributo>
+            <atributo nombre="CONTENT-URL-ACTIVIDAD">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=ca9671ee4a9eb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=06d8fdbf23fd1410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="CONTENT-URL-INSTALACION">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2565d2d6fe9a6110VgnVCM1000000b205a0aRCRD</atributo>
+                <atributo nombre="NOMBRE-INSTALACION">Centro Juvenil Carabanchel Alto</atributo>
+                <atributo nombre="ID-INSTALACION">4703662</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="NOMBRE-VIA">ALFONSO FERNANDEZ</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="DIRECCION-INSTALACION">CALLE ALFONSO FERNANDEZ 23</atributo>
+                <atributo nombre="LATITUD">40.366822704148795</atributo>
+                <atributo nombre="LONGITUD">-3.755451103709316</atributo>
+                <atributo nombre="COORDENADA-X">435861</atributo>
+                <atributo nombre="COORDENADA-Y">4468746</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="CODIGO-POSTAL">28044</atributo>
+                <atributo nombre="ACCESIBILIDAD">1</atributo>
+                <atributo nombre="BARRIO">BUENAVISTA</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/actividades/ActividadesDeportivas</atributo>
+            <atributo nombre="AUDIENCIA">/usuario/Jovenes</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
+

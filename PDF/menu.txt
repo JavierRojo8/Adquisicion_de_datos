@@ -1,0 +1,30 @@
+Chicken Alfredo : Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce
+Chicken Pesto : Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce
+Southwest Chicken : Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce
+Thai Chicken : Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce
+Big Meat : Bacon, Pepperoni, Italian Sausage, Chorizo Sausage
+Classic Deluxe : Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon
+Hawaiian : Sliced Ham, Pineapple, Mozzarella Cheese
+Italian Capocollo : Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano
+Napolitana : Tomatoes, Anchovies, Green Olives, Red Onions, Garlic
+Pepperoni, Mushroom, and Peppers : Pepperoni, Mushrooms, Green Peppers
+Pepperoni : Mozzarella Cheese, Pepperoni
+Greek : Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions
+Brie Carre : Brie Carre Cheese, Prosciutto, Caramelized Onions, Pears, Thyme, Garlic
+Calabrese : Nduja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic
+Italian Supreme : Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic
+Pepper Salami : Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic
+Prosciutto and Arugula : Prosciutto di San Daniele, Arugula, Mozzarella Cheese
+Sicilian : Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic
+Soppressata : Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic
+Spicy Italian : Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic
+Spinach Supreme : Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese
+Five Cheese : Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic
+Four Cheese : Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic
+Green Garden : Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese
+Italian Vegetables : Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce
+Mediterranean : Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions
+Mexicana : Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic
+Spinach Pesto : Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce
+Spinach and Feta : Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic
+Vegetables + Vegetables : Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic
